@@ -12,7 +12,6 @@ public class Location {
 	
 	//attribute of this class
 	private String name;
-	private String postCode;
 
 	/**
 	 * @return the name
@@ -26,20 +25,6 @@ public class Location {
 	 */
 	public void setName(String name) {
 		this.name = name;
-	}
-
-	/**
-	 * @return the postCode
-	 */
-	public String getPostCode() {
-		return postCode;
-	}
-
-	/**
-	 * @param postCode the postCode to set
-	 */
-	public void setPostCode(String postCode) {
-		this.postCode = postCode;
 	}
 
 }
