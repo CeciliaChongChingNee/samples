@@ -18,6 +18,9 @@ public class GitTest {
 		
 		//Display output
 		System.out.println("Git is fun");
+		
+		//Display output 2
+		System.out.println("Git is cool");
 
 	}
 
